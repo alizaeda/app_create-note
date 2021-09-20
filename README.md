@@ -1,15 +1,18 @@
-# Getting Started
+# Simple Create Note Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Main Purpose for this Application to practicing Material-UI Framework with React
+Used JSON Fake Server for prototypes
+Used React-Masonry-CSS Library
 
-## Available Scripts
+## Project preview
 
-In the project directory, you can run:
+You Can Preview Application at [Create Note App](https://createnote.alieslam.tech/)
 
-### `npm start`
+<br/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Getting Started
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+To get started developing right away:
+
+- install all project dependencies with `npm install`
+- start the development server with `npm start`
