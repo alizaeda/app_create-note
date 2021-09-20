@@ -1,7 +1,9 @@
 # Simple Create Note Application
 
 The Main Purpose for this Application to practicing Material-UI Framework with React
+<br />
 Used JSON Fake Server for prototypes
+<br />
 Used React-Masonry-CSS Library
 
 ## Project preview
