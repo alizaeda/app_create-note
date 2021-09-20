@@ -4,7 +4,7 @@ The Main Purpose for this Application to practicing Material-UI Framework with R
 <br />
 Used JSON Fake Server for prototypes
 <br />
-Used React-Masonry-CSS Library
+Used React-Masonry-CSS Library for Layout
 
 ## Project preview
 
